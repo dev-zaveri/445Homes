@@ -1,5 +1,8 @@
 # Philadelphia Housing Market Research
 
+# Requirements
+In order to use the data and get accurate results without error, download the CSV file from https://www.phila.gov/property/data/
+
 # Data Collection
 For this research project, the data was provided by the city of Philadelphia to analyze the housing market. Using the data.csv file, the dataset contains 81 columns and over 500,000 rows at a glance. The best way that I was able to convert this file was to use a pandas frame to analyze it. The various properties include attributes such as inspections, locations, sale information, and many others.
 
